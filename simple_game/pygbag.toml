@@ -1,0 +1,16 @@
+# Simple Space Shooter Game Configuration
+
+[pygbag]
+# Game window settings
+width = 800
+height = 600
+title = "Simple Space Shooter - pygbag Demo"
+author = "pygbag Developer"
+
+# Performance settings
+ume_block = 1
+can_close = 0
+
+# Build settings
+archive = false
+build = false
